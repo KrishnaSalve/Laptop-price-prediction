@@ -9,7 +9,7 @@ pipe = pickle.load(open('pipe.pkl', 'rb'))
 data = pickle.load(open('laptop_data.pkl', 'rb'))
 
 
-st.title("Laptop Predictor")
+st.title("Laptop Price Predictor")
 
 # Laptop Brand
 Company = st.selectbox('Brand', data['Company'].unique())
