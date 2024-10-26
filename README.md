@@ -212,7 +212,7 @@ Further, I have also used Hyperparameter for some algorithms which were giving u
 
   1. Run the Streamlit Application:
 
-        streamlit run app.py
+         streamlit run app.py
 
 
   This will start the web application and make it accessible at  http://localhost:5000/
