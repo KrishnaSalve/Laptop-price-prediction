@@ -197,19 +197,22 @@ Further, I have also used Hyperparameter for some algorithms which were giving u
 ## Setup
 
   1. Clone the Repository:
+
     https://github.com/KrishnaSalve/Laptop-price-prediction.git
 
   2. Navigate to the project directory in your local system:
+
     cd Laptop-price-predictor
 
   3. Install required packages: 
+
     pip install -r requirements.txt
 
 ### Usage 
 
   1. Run the Streamlit Application:
 
-          streamlit run app.py
+        streamlit run app.py
 
 
   This will start the web application and make it accessible at  http://localhost:5000/
@@ -277,13 +280,13 @@ If you have any questions, feedback, or would like to get in touch with the proj
 
 - **Project Maintainer**
 
-Name : Krishna Salve 
+  Name : Krishna Salve 
 
-Email : krishnasalve97@gmail.com
+  Email : krishnasalve97@gmail.com
 
-Linkedin : Krishna Salve
+  Linkedin : Krishna Salve
 
-GitHub : KrishnaSalve
+  GitHub : KrishnaSalve
 
 
 - **Project Repository**
